@@ -74,7 +74,7 @@ body { min-width: 320px; background: #fff; overflow-x: hidden; -webkit-text-size
 
 .info-list { margin: 20px 0 0 15px; padding: 10px 0 10px 15px; border-left: 2px solid #099FDE; overflow: hidden; }
 .info-list li { position: relative; line-height: 24px; padding-left: 20px; }
-.info-list li:before { content: ""; left: 10px; width: 5px; height: 5px; border-radius: 50%; background-color: #099FDE; }
+.info-list li:before { content: ""; top: .75em; left: 10px; width: 5px; height: 5px; border-radius: 50%; background-color: #099FDE; }
 .info-list.info-list-half {padding-left: 25px; }
 .info-list.info-list-half li { float: left; width: 45%; padding-left: 5%; }
 .info-list.info-list-half li:before { left: 0; }
